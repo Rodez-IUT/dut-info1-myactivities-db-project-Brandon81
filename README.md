@@ -6,7 +6,6 @@
 - [ ] 1
 - [x] 2
 - [ ] 3
-Salut
 ### 0. Création et initialisation du projet "myactivities-db-project"
 
 Créez un compte sur la plateforme Github si ce n'est pas déjà fait.  
